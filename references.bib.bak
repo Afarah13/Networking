@@ -1,0 +1,445 @@
+% This file was created with JabRef 2.9.2.
+
+@article{Hassan2011,
+   author = {Hassan, Qusay},
+   title = {Demystifying cloud computing},
+   journal = {The Journal of Defense Software Engineering},
+   pages = {16-21},
+   year = {2011}
+}
+
+@book{Santana2016,
+   author = {Santana, Gustavo A. A.},
+   title = {CCNA Cloud CLDFND 210-451 Official Cert Guide},
+   publisher = {Cisco Press},
+   pages = {640},
+   year = {2016}
+}
+
+@online{Wikipedia2016,
+  title = {Cloud computing},
+  url = {https://fr.wikipedia.org/wiki/Cloud_computing},
+  urldate = {2016-06-19},
+}
+
+@article{Mell2011,
+   author = {Mell, Peter and Grance, Tim},
+   title = {The NIST definition of cloud computing},
+   year = {2011}
+}
+
+@misc{Cisco2016,
+   author = {Cisco},
+   title = {Cisco Global Cloud Index: Forecast and Methodology, 2014-2019 White Paper},
+   volume = {2016},
+   number = {23 June},
+   year = {2016}
+}
+
+@article{
+   Gandhi2010,
+   author = {Gandhi, Anshul and Harchol-Balter, Mor and Adan, Ivo},
+   title = {Server farms with setup costs},
+   journal = {Performance Evaluation},
+   volume = {67},
+   number = {11},
+   pages = {1123-1138},
+   year = {2010}
+}
+
+@article{
+   Borthakur1999,	
+   author = {Borthakur, Arun and Choudhury, Gautam},
+   title = {A multiserver Poisson queue with a general startup time under N-Policy},
+   journal = {Bulletin of the Calcutta Statistical Association},
+   volume = {49},
+   number = {195-196},
+   pages = {199-214},
+   year = {1999}
+}
+
+@article{
+   Artalejo2005,
+   author = {Artalejo, Jesus R and Economou, Antonis and Lopez-Herrero, Maria Jesus},
+   title = {Analysis of a multiserver queue with setup times},
+   journal = {Queueing Systems},
+   volume = {51},
+   number = {1-2},
+   pages = {53-76},
+   year = {2005}
+}
+
+@article{
+	Gandhi2009,
+   author = {Gandhi, Anshul and Harchol-Balter, Mor},
+   title = {M/G/k with Exponential Setup},
+   year = {2009}
+}
+
+@book{
+   Neuts1981,
+   author = {Neuts, Marcel F},
+   title = {Matrix-geometric solutions in stochastic models: an algorithmic approach},
+   publisher = {Courier Corporation},
+   year = {1981}
+}
+
+@article{
+   Bertsimas1988,
+   author = {Bertsimas, Dimitris},
+   title = {An exact FCFS waiting time analysis for a general class of G/G/s queueing systems},
+   journal = {Queueing Systems},
+   volume = {3},
+   number = {4},
+   pages = {305-320},
+   year = {1988}
+}
+
+@article{
+   Slegers2008,
+   author = {Slegers, Joris and Thomas, Nigel and Mitrani, Isi},
+   title = {Dynamic server allocation for power and performance},
+   journal = {SIPEW},
+   volume = {8},
+   pages = {247-261},
+   year = {2008}
+}
+
+@article{
+   Adan1998,
+   author = {Adan, I and van der Wal, J},
+   title = {Difference and differential equations in stochastic operations research},
+   journal = {Online Notes, URL: http://www. win. tue. nl/ $\sim$ iadan},
+   year = {1998}
+}
+
+@inproceedings{golubchik1997bounding,
+  title={Bounding of performance measures for a threshold-based queueing system with hysteresis},
+  author={Golubchik, Leana and Lui, John},
+  booktitle={ACM SIGMETRICS Performance Evaluation Review},
+  volume={25},
+  number={1},
+  pages={147--157},
+  year={1997},
+  organization={ACM}
+}
+
+@article{meyer1989stochastic,
+  title={Stochastic complementation, uncoupling Markov chains, and the theory of nearly reducible systems},
+  author={Meyer, Carl D},
+  journal={SIAM review},
+  volume={31},
+  number={2},
+  pages={240--272},
+  year={1989},
+  publisher={SIAM}
+}
+
+@article{lui1999stochastic,
+  title={Stochastic complement analysis of multi-server threshold queues with hysteresis},
+  author={Lui, John CS and Golubchik, Leana},
+  journal={Performance Evaluation},
+  volume={35},
+  number={1},
+  pages={19--48},
+  year={1999},
+  publisher={Elsevier}
+}
+
+@book{le2000simple,
+  title={A simple analysis of heterogeneous multi-server threshold queues with hysteresis},
+  author={Le Ny, Louis-Marie and Tuffin, Bruno},
+  year={2000},
+  publisher={IRISA}
+}
+
+@book{kelly2011reversibility,
+  title={Reversibility and stochastic networks},
+  author={Kelly, Frank P},
+  year={2011},
+  publisher={Cambridge University Press}
+}
+
+@misc{kellyreversibility,
+  title={Reversibility and Stochastic Networks. 1979},
+  author={Kelly, FP},
+  publisher={Wiley, New York}
+}
+
+@article{mitrani2011service,
+  title={Service center trade-offs between customer impatience and power consumption},
+  author={Mitrani, Isi},
+  journal={Performance Evaluation},
+  volume={68},
+  number={11},
+  pages={1222--1231},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{mitrani2013managing,
+  title={Managing performance and power consumption in a server farm},
+  author={Mitrani, Isi},
+  journal={Annals of Operations Research},
+  volume={202},
+  number={1},
+  pages={121--134},
+  year={2013},
+  publisher={Springer}
+}
+
+@inproceedings{ait2015threshold,
+  title={The threshold based queueing system with hysteresis for performance analysis of clouds},
+  author={Ait-Salaht, Farah and Castel-Taleb, Hind},
+  booktitle={Computer, Information and Telecommunication Systems (CITS), 2015 International Conference on},
+  pages={1--5},
+  year={2015},
+  organization={IEEE}
+}
+
+@inproceedings{ait2015stochastic,
+  title={Stochastic bounding models for performance analysis of clouds},
+  author={A{\"\i}t-Salaht, Farah and Castel-Taleb, Hind},
+  booktitle={Computer and Information Technology; Ubiquitous Computing and Communications; Dependable, Autonomic and Secure Computing; Pervasive Intelligence and Computing (CIT/ IUCC/ DASC/ PICOM), 2015 IEEE International Conference on},
+  pages={603--610},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{bari2013data,
+  title={Data center network virtualization: A survey},
+  author={Bari, Md Faizul and Boutaba, Raouf and Esteves, Rafael and Granville, Lisandro Zambenedetti and Podlesny, Maxim and Rabbani, Md Golam and Zhang, Qi and Zhani, Mohamed Faten},
+  journal={IEEE Communications Surveys \& Tutorials},
+  volume={15},
+  number={2},
+  pages={909--928},
+  year={2013},
+  publisher={IEEE}
+}
+
+@inproceedings{wang2010impact,
+  title={The impact of virtualization on network performance of amazon ec2 data center},
+  author={Wang, Guohui and Ng, TS Eugene},
+  booktitle={INFOCOM, 2010 Proceedings IEEE},
+  pages={1--9},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{elsaid2016multiple,
+  title={Multiple Virtual Machines Live Migration Performance Modelling--VMware vMotion Based Study},
+  author={Elsaid, Mohamed Esam and Meinel, Christoph},
+  booktitle={2016 IEEE International Conference on Cloud Engineering (IC2E)},
+  pages={212--213},
+  year={2016},
+  organization={IEEE}
+}
+
+@inproceedings{clark2005live,
+  title={Live migration of virtual machines},
+  author={Clark, Christopher and Fraser, Keir and Hand, Steven and Hansen, Jacob Gorm and Jul, Eric and Limpach, Christian and Pratt, Ian and Warfield, Andrew},
+  booktitle={Proceedings of the 2nd conference on Symposium on Networked Systems Design \& Implementation-Volume 2},
+  pages={273--286},
+  year={2005},
+  organization={USENIX Association}
+}
+
+@online{TSPSite1,
+  title = {Telecom SudParis, grande école d'ingénieurs - Ecole - Le kmot du directeur},
+  url = {http://www.telecom-sudparis.eu/p_fr_ecole_Mot-directeur-Digne_8644.html},
+  urldate = {2016-07-14},
+}
+
+@online{TSPSite2,
+  title = {Telecom SudParis, grande école d'ingénieurs - Formation - ingénieur généraliste},
+  url = {http://www.telecom-sudparis.eu/p_fr_formations_ingenieur-generaliste_1041.html},
+  urldate = {2016-07-14},
+}
+
+@online{TSPSite3,
+  title = {Telecom SudParis, grande école d'ingénieurs - Recherche - Presentation},
+  url = {http://www.telecom-sudparis.eu/p_fr_recherche_presentation_8307.html},
+  urldate = {2016-07-14},
+}
+
+@online{TSPSite4,
+  title = {Telecom SudParis, grande école d'ingénieurs - organisation},
+  url = {http://www.telecom-sudparis.eu/p_fr_ecole_Mot-directeur-Digne_8644.html},
+  urldate = {2016-07-14},
+}
+
+@online{TSPSite5,
+  title = {Département RST - département réseaux et services de télécommunications},
+  url = {http://rst.telecom-sudparis.eu/fr/},
+  urldate = {2016-07-14},
+}
+
+@online{TSPSite6,
+  title = {Telecom SudParis, grande école d'ingénieurs - RST},
+  url = {http://www.telecom-sudparis.eu/p_fr_recherche_departements_rst_8338.html},
+  urldate = {2016-07-14},
+}
+
+@online{SAMOVARSite1,
+  title = {SAMOVAR - Présentation},
+  url = {http://samovar.telecom-sudparis.eu/spip.php?rubrique1},
+  urldate = {2016-07-14},
+}
+
+@online{MARMOTESite1,
+  title = {MARMOTE},
+  url = {https://wiki.inria.fr/MARMOTE/Accueil},
+  urldate = {2016-07-14},
+}
+
+@online{MARMOTESite2,
+  title = {MARMOTE - programme},
+  url = {https://wiki.inria.fr/MARMOTE/Programme_de_travail},
+  urldate = {2016-07-14},
+}
+
+@article{akar2000novel,
+  title={A novel computational method for solving finite QBD processes},
+  author={Akar, Nail and O{\u{g}}uz, Nihat C and Sohraby, Khosrow},
+  journal={Stochastic Models},
+  volume={16},
+  number={2},
+  pages={273--311},
+  year={2000},
+  publisher={Taylor \& Francis}
+}
+
+@article{gaujal2006optimal,
+  title={Optimal routing in two parallel queues with exponential service times},
+  author={Gaujal, Bruno and Hyon, Emmanuel and Jean-Marie, Alain},
+  journal={Discrete Event Dynamic Systems},
+  volume={16},
+  number={1},
+  pages={71--107},
+  year={2006},
+  publisher={Springer}
+}
+
+@article{baumann2010numerical,
+  title={Numerical solution of level dependent quasi-birth-and-death processes},
+  author={Baumann, Hendrik and Sandmann, Werner},
+  journal={Procedia Computer Science},
+  volume={1},
+  number={1},
+  pages={1561--1569},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@book{baynat2000theorie,
+  title={Th{\'e}orie des files d'attente: des cha{\^\i}nes de Markov aux r{\'e}seaux {\`a} forme produit},
+  author={Baynat, Bruno},
+  year={2000},
+  publisher={Herm{\`e}s Science publ.}
+}
+
+@article{philippe1992numerical,
+  title={Numerical methods in Markov chain modeling},
+  author={Philippe, Bernard and Saad, Youcef and Stewart, William J},
+  journal={Operations Research},
+  volume={40},
+  number={6},
+  pages={1156--1179},
+  year={1992},
+  publisher={INFORMS}
+}
+
+@article{grassmann1985regenerative,
+  title={Regenerative analysis and steady state distributions for Markov chains},
+  author={Grassmann, Winfried K and Taksar, Michael I and Heyman, Daniel P},
+  journal={Operations Research},
+  volume={33},
+  number={5},
+  pages={1107--1116},
+  year={1985},
+  publisher={INFORMS}
+}
+
+@article{kleinrock1975queueing,
+  title={Queueing Systems, Vol. 1: Theory, Vol. 2: Computer Applications},
+  author={Kleinrock, Leonard},
+  journal={J. Wiley and Sons},
+  year={1975}
+}
+
+@book{bolch2006queueing,
+  title={Queueing networks and Markov chains: modeling and performance evaluation with computer science applications},
+  author={Bolch, Gunter and Greiner, Stefan and de Meer, Hermann and Trivedi, Kishor S},
+  year={2006},
+  publisher={John Wiley \& Sons}
+}
+
+@article{golubchik2002bounding,
+  title={Bounding of performance measures for threshold-based queuing systems: Theory and application to dynamic resource management in video-on-demand servers},
+  author={Golubchik, Leana and Lui, John CS},
+  journal={IEEE Transactions on Computers},
+  volume={51},
+  number={4},
+  pages={353--372},
+  year={2002},
+  publisher={IEEE}
+}
+
+@phdthesis{ait2014chaines,
+  title={Cha{\^\i}nes de Markov Incompl{\`e}tement sp{\'e}cifi{\'e}es: analyse par comparaison stochastique et application {\`a} l'{\'e}valuation de performance des r{\'e}seaux},
+  author={Ait Salaht, Farah},
+  year={2014},
+  school={Versailles-St Quentin en Yvelines}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+@ARTICLE{Bello1963,
+  author = {Bello, P.},
+  title = {Characterization of randomly time-variant linear channels},
+  journal = {IEEE Transactions on Communications Systems},
+  year = {1963},
+  volume = {11},
+  pages = {360--393},
+  number = {4},
+  doi = {10.1109/TCOM.1963.1088793},
+  owner = {damien},
+  timestamp = {2010.04.16}
+}
+
+@ARTICLE{Roque2012b,
+  author = {Roque, D. and Siclet, C.},
+  title = {Performances of weighted cyclic prefix {OFDM} with low-complexity equalization},
+  journal = {{IEEE} Communication Letters},
+  year = {2012},
+  volume = {n/a},
+  pages = {n/a},
+  owner = {damien},
+  timestamp = {2012.08.15}
+}
+
+@INPROCEEDINGS{Roque2012c,
+  author = {Roque, D. and Siclet, C. and Brossier, J.M.},
+  title = {A low-complexity {FBMC} scheme analysis with {LDPC} coding in mobile-to-mobile Environment},
+  booktitle = {Proceedings of IEEE Military Conference on Communications, MILCOM '12},
+  year = {2012},
+  owner = {damien},
+  timestamp = {2012.04.03}
+}
+
+@INPROCEEDINGS{Roque2012d,
+  author = {Roque, D. and Siclet, C. and Brossier, J.M. and Siohan, P.},
+  title = {Weighted cyclic prefix {OFDM}: {PAPR} analysis and performances comparison with {DFT}-precoding},
+  booktitle = {Proceedings of IEEE 46th Annual Asilomar Conference on Signals, Systems, and Computers, ASILOMARSSC '12},
+  year = {2012},
+  owner = {damien},
+  timestamp = {2012.05.13}
+}
+
+@INPROCEEDINGS{Roque2012,
+  author = {Roque, D. and Siclet, C. and Siohan, P.},
+  title = {A performance comparison of {FBMC} modulation schemes with short perfect reconstruction filters},
+  booktitle = {Proceedings of IEEE International Conference on Telecommunications, ICT '12},
+  year = {2012},
+  owner = {damien},
+  timestamp = {2011.11.16}
+}
